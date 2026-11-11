@@ -1,0 +1,15 @@
+.img-alinear{
+    width: 650px;
+    height: 650px;
+    margin: 0 10px;
+}
+
+.video-alinear{
+    width: 650px;
+    height: 650px;
+    margin: 0 10px;
+}
+
+.contenedor{
+    display: flex;
+}
